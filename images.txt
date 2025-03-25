@@ -17,3 +17,7 @@ goharbor/harbor-core:v2.10.3
 goharbor/harbor-portal:v2.10.3
 goharbor/harbor-db:v2.10.3
 goharbor/prepare:v2.10.3
+
+#openldap
+osixia/openldap:1.5.0
+osixia/phpldapadmin:latest
