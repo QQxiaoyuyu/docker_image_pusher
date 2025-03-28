@@ -23,7 +23,7 @@ osixia/openldap:1.5.0
 osixia/phpldapadmin:latest
 
 #redash
-redis/redis:7-alpine
+#redis/redis:7-alpine
 pgautoupgrade/pgautoupgrade:latest
 maildev/maildev:latest
 --platform=linux/amd64 redash/redash:25.1.0
