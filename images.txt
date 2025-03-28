@@ -27,4 +27,5 @@ osixia/phpldapadmin:latest
 pgautoupgrade/pgautoupgrade:latest
 maildev/maildev:latest
 --platform=linux/amd64 redash/redash:25.1.0
+--platform=linux/amd64 postgres:13-alpine3.15
 
