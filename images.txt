@@ -27,3 +27,4 @@ redis/redis:7-alpine
 pgautoupgrade/pgautoupgrade:latest
 maildev/maildev:latest
 redash/redash:latest
+--platform=linux/amd64
