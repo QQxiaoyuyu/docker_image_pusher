@@ -23,6 +23,6 @@ osixia/openldap:1.5.0
 osixia/phpldapadmin:latest
 
 #redsh
-redis:7-alpine
+redis/redis:7-alpine
 pgautoupgrade/pgautoupgrade:latest
-maildev/maildev
+maildev/maildev:latest
