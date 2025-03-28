@@ -22,7 +22,8 @@ goharbor/prepare:v2.10.3
 osixia/openldap:1.5.0
 osixia/phpldapadmin:latest
 
-#redsh
+#redash
 redis/redis:7-alpine
 pgautoupgrade/pgautoupgrade:latest
 maildev/maildev:latest
+redash/redash:latest
