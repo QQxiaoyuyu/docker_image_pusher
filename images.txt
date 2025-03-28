@@ -5,18 +5,18 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-goharbor/prepare:v2.10.3
-goharbor/harbor-log:v2.10.3
-goharbor/redis-photon:v2.10.3
-goharbor/harbor-registryctl:v2.10.3
-goharbor/registry-photon:v2.10.3
-goharbor/nginx-photon:v2.10.3
-goharbor/harbor-log:v2.10.3
-goharbor/harbor-jobservice:v2.10.3
-goharbor/harbor-core:v2.10.3
-goharbor/harbor-portal:v2.10.3
-goharbor/harbor-db:v2.10.3
-goharbor/prepare:v2.10.3
+#goharbor/prepare:v2.10.3
+#goharbor/harbor-log:v2.10.3
+#goharbor/redis-photon:v2.10.3
+#goharbor/harbor-registryctl:v2.10.3
+#goharbor/registry-photon:v2.10.3
+#goharbor/nginx-photon:v2.10.3
+#goharbor/harbor-log:v2.10.3
+#goharbor/harbor-jobservice:v2.10.3
+#goharbor/harbor-core:v2.10.3
+#goharbor/harbor-portal:v2.10.3
+#goharbor/harbor-db:v2.10.3
+#goharbor/prepare:v2.10.3
 
 #openldap
 osixia/openldap:1.5.0
