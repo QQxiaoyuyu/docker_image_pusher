@@ -30,3 +30,6 @@ maildev/maildev:latest
 --platform=linux/amd64 postgres:13-alpine3.15
 
 ghcr.io/amoylab/unla/allinone:latest
+
+postgres:12.7-alpine
+index.docker.io/faradaysec/faraday
