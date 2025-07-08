@@ -33,3 +33,4 @@ ghcr.io/amoylab/unla/allinone:latest
 
 postgres:12.7-alpine
 index.docker.io/faradaysec/faraday
+tib3rius/autorecon
