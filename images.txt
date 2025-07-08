@@ -33,4 +33,5 @@
 
 #postgres:12.7-alpine
 #index.docker.io/faradaysec/faraday
-debian:latest
+faradaysec/faraday:latest
+#debian:latest
