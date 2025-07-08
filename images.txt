@@ -19,18 +19,18 @@
 #goharbor/prepare:v2.10.3
 
 #openldap
-osixia/openldap:1.5.0
-osixia/phpldapadmin:latest
+#osixia/openldap:1.5.0
+#osixia/phpldapadmin:latest
 
 #redash
-redis:8.0.2
-pgautoupgrade/pgautoupgrade:latest
-maildev/maildev:latest
---platform=linux/amd64 redash/redash:25.1.0
---platform=linux/amd64 postgres:13-alpine3.15
+#redis:8.0.2
+#pgautoupgrade/pgautoupgrade:latest
+#maildev/maildev:latest
+#--platform=linux/amd64 redash/redash:25.1.0
+#--platform=linux/amd64 postgres:13-alpine3.15
 
-ghcr.io/amoylab/unla/allinone:latest
+#ghcr.io/amoylab/unla/allinone:latest
 
-postgres:12.7-alpine
-index.docker.io/faradaysec/faraday
-tib3rius/autorecon
+#postgres:12.7-alpine
+#index.docker.io/faradaysec/faraday
+#tib3rius/autorecon
