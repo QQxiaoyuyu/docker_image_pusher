@@ -32,6 +32,9 @@
 #ghcr.io/amoylab/unla/allinone:latest
 
 #postgres:12.7-alpine
+
+snipe/snipe-it:latest
+mariadb:11.4.7
 #index.docker.io/faradaysec/faraday
 faradaysec/faraday:latest
 #debian:latest
