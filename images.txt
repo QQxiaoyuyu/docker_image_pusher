@@ -51,5 +51,6 @@
 #opencoze/opencoze:latest
 #opencoze/web:latest
 
-semgrep/semgrep:canary-nonroot
+#semgrep/semgrep:canary-nonroot
+sonarqube:latest
 
