@@ -52,5 +52,6 @@
 #opencoze/web:latest
 
 #semgrep/semgrep:canary-nonroot
-sonarqube:latest
+#sonarqube:latest
+centos:7
 
