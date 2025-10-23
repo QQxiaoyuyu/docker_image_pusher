@@ -53,5 +53,6 @@
 
 #semgrep/semgrep:canary-nonroot
 #sonarqube:latest
-centos:7
+#centos:7
+apacherocketmq/rocketmq-dashboard:latest
 
