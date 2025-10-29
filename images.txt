@@ -54,5 +54,6 @@
 #semgrep/semgrep:canary-nonroot
 #sonarqube:latest
 #centos:7
-apacherocketmq/rocketmq-dashboard:latest
+#apacherocketmq/rocketmq-dashboard:latest
+iwakitakuma/gitlab-mcp:latest
 
