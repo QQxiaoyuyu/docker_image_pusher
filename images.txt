@@ -55,5 +55,6 @@
 #sonarqube:latest
 #centos:7
 #apacherocketmq/rocketmq-dashboard:latest
-iwakitakuma/gitlab-mcp:latest
+#iwakitakuma/gitlab-mcp:latest
+projectorimages/projector-idea-c:2022.2
 
