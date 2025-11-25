@@ -56,5 +56,6 @@
 #centos:7
 #apacherocketmq/rocketmq-dashboard:latest
 #iwakitakuma/gitlab-mcp:latest
-projectorimages/projector-idea-c:2022.2
+#projectorimages/projector-idea-c:2022.2
+jetbrains/qodana-jvm-community:2025.2
 
