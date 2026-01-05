@@ -59,5 +59,6 @@
 #projectorimages/projector-idea-c:2022.2
 #jetbrains/qodana-jvm-community:2025.2
 #prompve/prometheus-pve-exporter:latest
-threatbook/hfish-server:latest
+#threatbook/hfish-server:latest
+registry.gitlab.com/gitlab-org/gitlab-docs:14.0
 
