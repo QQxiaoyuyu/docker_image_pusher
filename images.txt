@@ -31,9 +31,8 @@
 
 #ghcr.io/amoylab/unla/allinone:latest
 
-#postgres:12.7-alpine
 
-#snipe/snipe-it:latest
+
 #mariadb:11.4.7
 #index.docker.io/faradaysec/faraday
 #faradaysec/faraday:latest
@@ -60,5 +59,12 @@
 #jetbrains/qodana-jvm-community:2025.2
 #prompve/prometheus-pve-exporter:latest
 #threatbook/hfish-server:latest
-registry.gitlab.com/gitlab-org/gitlab-docs:14.0
+#registry.gitlab.com/gitlab-org/gitlab-docs:14.0
 
+registry.k8s.io/kube-apiserver:v1.36.2
+registry.k8s.io/kube-controller-manager:v1.36.2
+registry.k8s.io/kube-scheduler:v1.36.2
+registry.k8s.io/kube-proxy:v1.36.2
+registry.k8s.io/coredns/coredns:v1.14.2
+registry.k8s.io/pause:3.10.2
+registry.k8s.io/etcd:3.6.8-0
