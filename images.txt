@@ -68,4 +68,4 @@
 #registry.k8s.io/coredns/coredns:v1.14.2
 #registry.k8s.io/pause:3.10.2
 #registry.k8s.io/etcd:3.6.8-0
-jetbrains/qodana-jvm-community:2025.2
+jetbrains/qodana-jvm-community:2026.2
